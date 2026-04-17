@@ -15,3 +15,8 @@ A modern React Notes App with color-coded notes, search, edit/delete, and dark m
 - JavaScript
 - CSS
 
+## 📸 Screenshots
+
+![Home](./public/images/home.png)
+![Dark Mode](./public/images/dark.png)
+
