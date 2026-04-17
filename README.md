@@ -15,6 +15,3 @@ A modern React Notes App with color-coded notes, search, edit/delete, and dark m
 - JavaScript
 - CSS
 
-## 📦 Run Locally
-npm install
-npm run dev
